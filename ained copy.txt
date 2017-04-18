@@ -1,0 +1,6 @@
+Ainekood;Ainenimetus
+OOP;Objektorienteeritud programmeerimine
+ÄA;Ärianalüüs
+BPM;Äriprotsesside juhtimine
+TR;Inforturve
+OS;Operatsioonisüsteemid
